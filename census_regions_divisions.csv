@@ -1,0 +1,52 @@
+region,region_fips,division,division_fips,state,state_name,state_fips,division2,division2_fips
+Northeast,1,New England,1,CONNECTICUT,CT,9,NewEnglandMidAtlantic,1
+Northeast,1,New England,1,MAINE,ME,23,NewEnglandMidAtlantic,1
+Northeast,1,New England,1,MASSACHUSETTS,MA,25,NewEnglandMidAtlantic,1
+Northeast,1,New England,1,NEW HAMPSHIRE,NH,33,NewEnglandMidAtlantic,1
+Northeast,1,New England,1,RHODE ISLAND,RI,44,NewEnglandMidAtlantic,1
+Northeast,1,New England,1,VERMONT,VT,50,NewEnglandMidAtlantic,1
+Northeast,1,Middle Atlantic,2,NEW JERSEY,NJ,34,NewEnglandMidAtlantic,1
+Northeast,1,Middle Atlantic,2,NEW YORK,NY,36,NewEnglandMidAtlantic,1
+Northeast,1,Middle Atlantic,2,PENNSYLVANIA,PA,42,NewEnglandMidAtlantic,1
+Midwest,2,East North Central,3,ILLINOIS,IL,17,EastNorthCentral,2
+Midwest,2,East North Central,3,INDIANA,IN,18,EastNorthCentral,2
+Midwest,2,East North Central,3,MICHIGAN,MI,26,EastNorthCentral,2
+Midwest,2,East North Central,3,OHIO,OH,39,EastNorthCentral,2
+Midwest,2,East North Central,3,WISCONSIN,WI,55,EastNorthCentral,2
+Midwest,2,West North Central,4,IOWA,IA,19,WestNorthCentral,3
+Midwest,2,West North Central,4,KANSAS,KS,20,WestNorthCentral,3
+Midwest,2,West North Central,4,MINNESOTA,MN,27,WestNorthCentral,3
+Midwest,2,West North Central,4,MISSOURI,MO,29,WestNorthCentral,3
+Midwest,2,West North Central,4,NEBRASKA,NE,31,WestNorthCentral,3
+Midwest,2,West North Central,4,NORTH DAKOTA,ND,38,WestNorthCentral,3
+Midwest,2,West North Central,4,SOUTH DAKOTA,SD,46,WestNorthCentral,3
+South,3,South Atlantic,5,DELAWARE,DE,10,SouthAtlantic,4
+South,3,South Atlantic,5,DISTRICT OF COLUMBIA,DC,11,SouthAtlantic,4
+South,3,South Atlantic,5,FLORIDA,FL,12,SouthAtlantic,4
+South,3,South Atlantic,5,GEORGIA,GA,13,SouthAtlantic,4
+South,3,South Atlantic,5,MARYLAND,MD,24,SouthAtlantic,4
+South,3,South Atlantic,5,NORTH CAROLINA,NC,37,SouthAtlantic,4
+South,3,South Atlantic,5,SOUTH CAROLINA,SC,45,SouthAtlantic,4
+South,3,South Atlantic,5,VIRGINIA,VA,51,SouthAtlantic,4
+South,3,South Atlantic,5,WEST VIRGINIA,WV,54,SouthAtlantic,4
+South,3,East South Central,6,ALABAMA,AL,1,EastSouthCentral,5
+South,3,East South Central,6,KENTUCKY,KY,21,EastSouthCentral,5
+South,3,East South Central,6,MISSISSIPPI,MS,28,EastSouthCentral,5
+South,3,East South Central,6,TENNESSEE,TN,47,EastSouthCentral,5
+South,3,West South Central,7,ARKANSAS,AR,5,WestSouthCentral,6
+South,3,West South Central,7,LOUISIANA,LA,22,WestSouthCentral,6
+South,3,West South Central,7,OKLAHOMA,OK,40,WestSouthCentral,6
+South,3,West South Central,7,TEXAS,TX,48,WestSouthCentral,6
+West,4,Mountain,8,ARIZONA,AZ,4,Mountain,7
+West,4,Mountain,8,COLORADO,CO,8,Mountain,7
+West,4,Mountain,8,IDAHO,ID,16,Mountain,7
+West,4,Mountain,8,MONTANA,MT,30,Mountain,7
+West,4,Mountain,8,NEVADA,NV,32,Mountain,7
+West,4,Mountain,8,NEW MEXICO,NM,35,Mountain,7
+West,4,Mountain,8,UTAH,UT,49,Mountain,7
+West,4,Mountain,8,WYOMING,WY,56,Mountain,7
+West,4,Pacific,9,ALASKA,AK,2,Pacific,8
+West,4,Pacific,9,CALIFORNIA,CA,6,Pacific,8
+West,4,Pacific,9,HAWAII,HI,15,Pacific,8
+West,4,Pacific,9,OREGON,OR,41,Pacific,8
+West,4,Pacific,9,WASHINGTON,WA,53,Pacific,8
